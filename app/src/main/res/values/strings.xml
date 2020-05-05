@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amt">Amount</string>
+    <string name="hintmessage">Please enter the total amount spent</string>
+    <string name="NOP">Num of Pax</string>
+    <string name="hintmessage2">Please enter Number of Pax</string>
+    <string name="svs">SVS</string>
+    <string name="gst">GST</string>
+    <string name="dis">Discount (%)</string>
+    <string name="hintDIS">Please Enter the discount %</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+</resources>
